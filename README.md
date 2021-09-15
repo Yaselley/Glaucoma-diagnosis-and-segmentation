@@ -6,3 +6,5 @@ models UNet, VGG, and AlexNet and test different kinds of data augmentation. Lat
 model.
 
 ![alt text](https://www.mdpi.com/applsci/applsci-10-04916/article_deploy/html/images/applsci-10-04916-g001.png)
+
+___Note:___ the data was collected from Kaggle (https://www.kaggle.com/c/eurecom-aml-2021-challenge-2/data)
